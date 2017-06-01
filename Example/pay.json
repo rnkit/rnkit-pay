@@ -1,0 +1,18 @@
+{
+    "acct_name": "李伟",
+    "busi_partner": "101001",
+    "card_no": "6212264000018304606",
+    "dt_order": "20170601164153",
+    "flag_modify": "1",
+    "id_no": "15042819890208001X",
+    "money_order": "0.01",
+    "name_goods": "投哪网充值",
+    "no_order": "592fd36080c7659d31c9163b",
+    "notify_url": "http://www.touna.cn/api/pay.api?touna_paytype=lianlian&channel_key=xiaodai_jkrapp",
+    "oid_partner": "201705241001768262",
+    "risk_item": "{\"frms_ware_category\":\"2009\",\"user_info_bind_phone\":\"18600024377\",\"user_info_dt_register\":\"20170531150917\",\"user_info_full_name\":\"李伟\",\"user_info_id_no\":\"15042819890208001X\",\"user_info_id_type\":\"0\",\"user_info_identify_state\":\"1\",\"user_info_identify_type\":\"3\",\"user_info_mercht_userno\":\"5ff2fb8272cfdc10a41f46f9bd6329a0\"}",
+    "sign": "242cb55c1c6973e0e4658ce941833953",
+    "sign_type": "MD5",
+    "user_id": "5ff2fb8272cfdc10a41f46f9bd6329a0",
+    "valid_order": "43200"
+}
