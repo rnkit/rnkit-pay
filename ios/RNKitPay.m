@@ -8,8 +8,10 @@
 
 #if __has_include(<React/RCTBridge.h>)
 #import <React/RCTConvert.h>
+#import <React/RCTUtils.h>
 #else
 #import "RCTConvert"
+#import "RCTUtils.h"
 #endif
 
 #import "RNKitPay.h"
