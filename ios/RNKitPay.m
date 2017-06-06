@@ -10,7 +10,7 @@
 #import <React/RCTConvert.h>
 #import <React/RCTUtils.h>
 #else
-#import "RCTConvert"
+#import "RCTConvert.h"
 #import "RCTUtils.h"
 #endif
 
