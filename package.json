@@ -1,6 +1,6 @@
 {
   "name": "rnkit-pay",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Payment for ReactNative",
   "main": "index.js",
   "author": "SimMan <liwei0990@gmail.com>",
